@@ -71,7 +71,8 @@ refer to your module's documentation for proper pin connections.
 With the serial terminal connected to the Pi Pico you can enter commands 
 to read and set the RTC date and time.
 
-[serial-commands.webm](./serial-commands.webm)
+[serial-commands.webm](https://user-images.githubusercontent.com/486139/218351758-74a45b4f-4f67-48f2-9dd7-e3e5a1b96d58.webm)
+
 
 
 ## Reference Links
